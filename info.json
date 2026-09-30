@@ -1,0 +1,12 @@
+{
+  "name": "smooth-zoom",
+  "version": "0.1.1",
+  "title": "Smooth Zoom",
+  "author": "Phonkovick",
+  "contact": "https://github.com/Phonkovick",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0"
+  ],
+  "description": "Smoothly zoom the camera with the mouse wheel. Adds configurable zoom step, smoothing speed and inertia."
+}
